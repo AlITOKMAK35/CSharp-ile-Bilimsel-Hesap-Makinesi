@@ -18,7 +18,7 @@ Visual Studio veya başka bir C# IDE.
 .NET Framework veya .NET Core.
 Proje Dosyalarını İndirin:
 
-git clone https://github.com/kullanici_adi/CSharp-ile-Bilimsel-Hesap-Makinesi.git
+https://github.com/AlITOKMAK35/CSharp-ile-Bilimsel-Hesap-Makinesi
 Proje Klasörüne Geçin:
 
 cd CSharp-ile-Bilimsel-Hesap-Makinesi
