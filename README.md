@@ -46,4 +46,5 @@ GitHub üzerinden bir pull request oluşturun.
 Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz:
 
 E-posta: alitokmak3535@gmail.com
+
 GitHub: AlITOKMAK35
