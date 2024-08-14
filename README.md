@@ -21,7 +21,7 @@ Proje Dosyalarını İndirin:
 https://github.com/AlITOKMAK35/CSharp-ile-Bilimsel-Hesap-Makinesi
 Proje Klasörüne Geçin:
 
-cd CSharp-ile-Bilimsel-Hesap-Makinesi
+CSharp-ile-Bilimsel-Hesap-Makinesi
 Projeyi Açın ve Çalıştırın:
 
 Visual Studio'da BilimselHesapMakinesi.sln dosyasını açın.
